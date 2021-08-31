@@ -31,7 +31,7 @@ title: Your awesome title
 
 domain: geraldbrianp.github.io/user_manual_pinter/       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://geraldbrianp.github.io/user_manual_pinter/  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /user_manual_pinter/docs/      # place folder name if the site is served in a subfolder
+baseurl: /user_manual_pinter/      # place folder name if the site is served in a subfolder
 
 # Build settings
 theme: minima
