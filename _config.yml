@@ -1,7 +1,7 @@
 # Setup
 title: Pinter User Manual
 tagline: The Jekyll Butler
-url: https://geraldbrianp.github.io/user_manual_pinter/
+url: https://geraldbrianp.github.io/user_manual_pinter
 paginate: 1
 baseurl: "/user_manual_pinter/"
 permalink: pretty
